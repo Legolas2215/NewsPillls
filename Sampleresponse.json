@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Elizabeth Wolfe, Jaide Timm-Garcia, Nadia Romero",
+            "title": "Recaptured fugitive Casey White returns to Alabama for court arraignment after being on the run from authorities for 11 days",
+            "description": "Escaped inmate Casey White was brought back to Alabama late Tuesday night for his first court appearance since he was captured following a car chase in Evansville, Indiana, Monday.",
+            "url": "https://www.cnn.com/2022/05/11/us/vicky-white-casey-white-alabama-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220510202725-casey-white-transported-for-arrignment.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-05-11T09:04:00+00:00",
+            "content": "Escaped inmate Casey White was brought back to Alabama late Tuesday night for his first court appearance since he was captured following a car chase in Evansville, Indiana, Monday.\r\nHe returned witho… [+7326 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": null,
+            "title": "India Rejects \"Speculative Reports\" About Sending Troops To Sri Lanka",
+            "description": "The Indian High Commission today categorically dismissed speculative media reports about New Delhi sending troops to Colombo, saying India is fully supportive of Sri Lanka's democracy, stability and economic recovery.",
+            "url": "https://www.ndtv.com/india-news/india-rejects-speculative-reports-about-sending-troops-to-sri-lanka-2964935",
+            "urlToImage": "https://c.ndtvimg.com/2022-05/5qfd65c_sri-lanka-protest-afp_625x300_11_May_22.jpg",
+            "publishedAt": "2022-05-11T05:43:15+00:00",
+            "content": "Clashes are going on between protesters and Sri Lanka's military (AFP)\r\nColombo: The Indian High Commission today categorically dismissed speculative media reports about New Delhi sending troops to C… [+2584 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Coinbase CEO says India central bank's 'informal pressure' prompted trading halt",
+            "description": "Coinbase halted trading service in India because of \"informal pressure\" from the Reserve Bank of India, the crypto exchange's chief executive said.",
+            "url": "https://techcrunch.com/2022/05/10/coinbase-trading-reserve-bank-of-india/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1239806623.jpg?w=600",
+            "publishedAt": "2022-05-11T02:35:49Z",
+            "content": "Coinbase halted trading service in India because of “informal pressure” from the Reserve Bank of India, the crypto exchange’s chief executive said on Tuesday, addressing the notable Indian episode fo… [+3369 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": null,
+            "title": "Sheriff: Alabama inmate, jailer were prepared for a shootout - World News",
+            "description": "A murder suspect and the jailer who helped him escape from an Alabama lockup were carrying $29,000 in cash, four handguns and an AR-15 rifle and were prepared for a shootout when they were captured, an Indiana sheriff said Tuesday.",
+            "url": "https://www.castanet.net/news/World/368602/Sheriff-Alabama-inmate-jailer-were-prepared-for-a-shootout",
+            "urlToImage": "https://www.castanet.net/content/2022/5/220502-inmate-escaped-white-mn-1215-195fc8._p3592158.jpg",
+            "publishedAt": "2022-05-11T00:46:00+00:00",
+            "content": "A murder suspect and the jailer who helped him escape from an Alabama lockup were carrying $29,000 in cash, four handguns and an AR-15 rifle and were prepared for a shootout when they were captured, … [+3711 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Swati Bhasin",
+            "title": "Tajinder Bagga gets court relief amid AAP vs BJP, can't be arrested till July 5",
+            "description": "Tajinder Bagga has been at the centre of the latest BJP-AAP rift; he was arrested last week from his west Delhi home and released later.  | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/bjps-tajinder-bagga-gets-big-relief-from-punjab-haryana-court-till-july-5-101652165111714.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/05/10/1600x900/2db50278-cf08-11ec-8ffc-07511f5657a1_1652165409661_1652165414071.jpg",
+            "publishedAt": "2022-05-10T06:51:46+00:00",
+            "content": "The BJPs Tajinder Bagga got a big relief from the Punjab and Haryana High Court on Tuesday, news agency ANI reported, after a case was filed against him over an alleged threat to Delhi Chief Minister… [+1815 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Ananth Krishnan",
+            "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+            "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+            "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+            "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+            "publishedAt": "2021-07-22T15:47:01Z",
+            "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "UK continues with reopening plan despite concerns",
+            "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+            "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+            "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+            "publishedAt": "2021-05-15T09:33:48Z",
+            "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajat Pandit",
+            "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+            "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+            "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T08:29:00Z",
+            "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Bloomberg",
+            "title": "Even record death toll may hide extent of India’s Covid crisis",
+            "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+            "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+            "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+            "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T03:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "Coronavirus in India live updates: Zydus' Virafin gets DCGI nod for Covid treatment",
+            "description": "In yet another grim milestone, India recorded 3.3 lakh new Covid-19 cases, and 2,263 deaths in a day. Meanwhile, active cases crossed the 24-lakh mar",
+            "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-covid-19-vaccine-cases-lockdown-live-updates-23-april-2021/liveblog/82205841.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82205841,width-1070,height-580,imgsize-148788,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-22T16:20:06Z",
+            "content": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment\r\nMake Covid-19 vaccination affordable, accessible through Jan Aushadi scheme: IMA\r\nThe IMA has demanded that the Covid-19 vaccine … [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "I'm fighting my own benchmarks - R Ashwin | ESPNcricinfo.com",
+            "description": "India's No. 1 offspinner talks to Manjrekar on his form abroad, injuries and more | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102228/fighting-my-own-benchmarks-r-ashwin",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219773_1296x729.jpg",
+            "publishedAt": "2020-04-25T03:00:09Z",
+            "content": "R Ashwin has said that he is \"fighting my own benchmarks\" because his Test performances overseas are being measured against his heroics in India. Despite being the country's best long-form spinner in… [+3347 chars]"
+        }
+    ]
+}
