@@ -13,7 +13,7 @@ const News = (props)=> {
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
   const [loading, setLoading] = useState(true);
-  // document.title = `${this.capitalizeFirstLetter(this.props.category)} | NewsPills`;
+
   const update = async () => {
     props.progress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
@@ -29,6 +29,7 @@ const News = (props)=> {
   }
   useEffect(() => {
     update();
+      document.title = `${capitalizeFirstLetter(props.category)} | NewsPills`;
   }, [])
   
   
@@ -49,7 +50,7 @@ const News = (props)=> {
 
     return (
       <>
-        <h2 className=' my-6 text-center'>{capitalizeFirstLetter(props.category)} News on NewsPills</h2>
+        <h2 className=' my-5 py-2 text-center'>{capitalizeFirstLetter(props.category)} News on NewsPills</h2>
         {loading && <Loading />}
         <InfiniteScroll
           dataLength={articles.length}
@@ -57,7 +58,7 @@ const News = (props)=> {
           hasMore={articles.length !== totalResults}
           // loader={<Loading />} //=> Not working continues to light up
         > 
-          {console.log("Total Results" +totalResults)}
+
           <div className='container'>
           
           <div className="row">

@@ -7,7 +7,7 @@ const NewsItem = (props)=> {
 
             <div className="my-3">
                 <div className="card" >
-                    <img className="card-img-top" src={imageurl?imageurl:"https://images.hindustantimes.com/img/2022/05/12/1600x900/PM_Modi_1652338062156_1652338072712.jpg"} alt="Card image cap" />
+                    <img className="card-img-top" src={imageurl?imageurl:"https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"} alt="Card image cap" />
                     <div className="card-body">
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text"><small className="text-muted">By {author?author:'Anonymous'} </small></p>
